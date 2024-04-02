@@ -1,4 +1,4 @@
-/* --------------- Weather Web App  --------------------- */
+
 let show = document.getElementById("show");
 let search = document.getElementById("search");
 let cityVal = document.getElementById("city");
